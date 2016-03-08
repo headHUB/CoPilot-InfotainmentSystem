@@ -2,6 +2,9 @@ import kivy
 kivy.require('1.0.6') # replace with your current kivy version !
 
 #sPIder V2.0
+#Code created by Joel C. Zeller
+#3/8/16
+
 
 from kivy.app import App
 from kivy.uix.button import Button
