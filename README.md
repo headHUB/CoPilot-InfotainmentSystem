@@ -14,8 +14,8 @@ Recommended Hardware -
  - Leds (Look in code for which GPIO is used)
  - Two push buttons for Hotkeys (Look in code for which GPIO is used)
  
- To view current temp:
+To view current temp:
  - Make sure "TempProbePresent" variable in code is set to 1 - if not, temp will be "--"
  - Tap under time on home screen and bubble will float unto screen showing temp - tap again to hide
  
- Email me at joelzeller25@hotmail.com with any questions :)
+Email me at joelzeller25@hotmail.com with any questions :)
