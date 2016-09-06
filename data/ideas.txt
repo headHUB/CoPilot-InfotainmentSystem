@@ -1,0 +1,60 @@
+red accenting on perf page
+temp sensor for in the car temp - temp sensor
+cool dark wallpaper for screens
+check Matt's clock example
+2 or 3 gpio buttons for hotkeys - seek up - 
+look into using animations for different widgets
+
+switch to turn off analog clock on mainscreen
+spinner to select 2 "hotkey" functions
+seek up, seek down, garage door, radar, cupholder lights, homebutton, maybe sleep wake button
+quick tutorial
+changing theme colors with slider? possibly spinner - use vars
+connect aux out to aux in in car with another cable - use splitter to connect
+add an inline remote control- or make one (http://www.wisebread.com/build-a-cable-to-control-your-android-phone-while-you-drive)
+
+Audio-
+Seek Up
+Seek Down
+AM/FM
+AUX
+
+Performance-
+Launch Control
+Timer
+Gauges? - obd
+0-60 timer? - obd
+G-forces? accelerometer
+auto track timer? gps
+1/4 mile timer? gps
+reaction timer? accelerometer
+Horsepower-tourqe - obd
+
+Apps-
+GPS?
+Performance pages link
+clock faces
+music visualizer
+speedlimit control - obd
+notes
+trouble codes - obd
+picture viewer
+calculator?
+paint
+date and time screen - time, seconds, am-pm, day of week?, date, month, year
+
+Controls-
+Radar
+Garage Opener
+windows down - new gpio
+cup holder lights - new gpio
+side view of car and have different zones have buttons on them so you can touch a part of the car and something will happen - no
+
+Settings-
+Fonts?
+Button Accent colors?
+Button pressed colors?
+background blackout - less light
+brightness - update?
+show date?
+shut down gui

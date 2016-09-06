@@ -1,0 +1,119 @@
+to screenshot: cd raspi2png -> raspi2png ----- file will be placed in raspi2png directory
+
+done in this version:
+Material Update continued
+
+THIS IS THE FIRST VERSION TO BE SCREENSHOTTED FOR DOCUMENTATION!
+
+new "when pressed" icons - controls - apps - performance
+moved radar dot to new location - maybe change to icon?
+new wallpapers for various apps
+THIS IS THE FIRST VERSION TO BE SCREENSHOTTED FOR DOCUMENTATION!
+new "pressed" buttons for performance and controls pages
+New settings power buttons
+
+
+next:
+
+fix settings hotkeys labels alignment when set
+add better power buttons to settings page
+add shortcuts and date to NavBar
+clock and temp as labels for better animations
+change radar dot to icon for material design
+fix clocks
+settings screen
+clock selection screen
+align app page
+taps on icons - performance - apps - controls
+
+look into media drawer from top on any page?
+
+can do - 
+
+
+add labels; mph, rpm, F, LB-FT
+add maxes in obd screens with reset button
+add set button for redline and speeding warning
+popup!!!!????
+
+info on toggles and push button bellow the screen - in settings page
+
+passcode to get into settings page - can only use if able to save vars when turned off...
+
+show clock previews on clock buttons
+
+
+need to learn - 
+
+Widget Animations
+
+fix the Scatter photo app - needs more images
+-photos from build
+-cool car pics
+-pics of stratus
+
+Look into carosel widget (like a slide show within a screen)
+
+Look into accordian widget (possibly for music screen to switch between aux and radio, only show controls needed in that mode)
+
+safemode - no window/radar relays allowed to trigger
+
+Use drop downs in settings page (hotkey selections)
+
+reminder: buttons can create and destroy other buttons or widgets 
+
+add functionallity to the settings switches - analog clock on homescreen - 
+add switch functionality coldstart countdown enable/disable
+windows+radar
+
+be able to save values so they will load on launch - colors - hotkey settings - switch settings
+
+home screen on hotkey push?
+
+icon on main screen if radar is on - make it green?
+icons next to windows up and down if activated?
+
+coldstart countdown
+
+other info on infoclockscreen? not sure what
+
+startup animation??
+Photo Clock screen - clock with photos - R/T, Car, others? Scroll thru to select
+
+
+photo slideshow? - car photos from laptop
+
+Camera? backup?
+
+
+apps to make-
+create NOS screen
+design tutorial - time is always 3:14 - describe what toggle switches and buttons do
+
+
+problems:
+Hot keys interfereing with one another..fixed for now by disabling the second key - possible fix - add physical pulldown-up resistors - look at tutorial
+Mausberry broke!
+hotkeys dont work with fix
+
+
+links:
+
+DESIGN-
+http://stackoverflow.com/questions/22827317/changing-background-of-a-button-to-a-different-shape-and-styles-like-shadow-effe
+
+http://hex.colorrrs.com/
+
+https://material.google.com/style/color.html#color-color-palette
+
+http://bitdroid.de/Android-Material-Icon-Generator/
+
+flaticon.com
+
+
+NavigationDrawer-
+https://kivy.org/docs/api-kivy.garden.html
+
+https://gitlab.com/kivymd/KivyMD/issues/27
+https://gitlab.com/kivymd/KivyMD/blob/master/kivymd/slidingpanel.py#L17
+https://github.com/kivy-garden/garden.navigationdrawer
